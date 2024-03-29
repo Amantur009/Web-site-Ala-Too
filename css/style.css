@@ -1,0 +1,33 @@
+html {
+    background-color: #00539f;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+
+p {
+    text-align: center;
+}
+img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 1000px;
+}
+
+#myImage:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
